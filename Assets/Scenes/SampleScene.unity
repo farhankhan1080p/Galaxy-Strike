@@ -5243,7 +5243,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7597228960645876949, guid: 39f7151261a06084ca44d733af81202c, type: 3}
       propertyPath: hitPoint
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
