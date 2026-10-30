@@ -2269,7 +2269,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7959510930734011555, guid: 575aa129f141e8d4fa5bc241ba71714d, type: 3}
       propertyPath: hitPoint
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7959510930734011555, guid: 575aa129f141e8d4fa5bc241ba71714d, type: 3}
       propertyPath: scoreAmount
@@ -3035,7 +3035,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7597228960645876949, guid: 8ffc830a5a67c264f8bd1ef3801b02a9, type: 3}
       propertyPath: hitPoint
-      value: 8
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 7597228960645876949, guid: 8ffc830a5a67c264f8bd1ef3801b02a9, type: 3}
       propertyPath: scoreAmount
@@ -3783,7 +3783,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2282726724400211589, guid: 32e1115a2b1e8d94a938f9962da946e9, type: 3}
       propertyPath: hitPoint
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2282726724400211589, guid: 32e1115a2b1e8d94a938f9962da946e9, type: 3}
       propertyPath: scoreAmount
@@ -4766,7 +4766,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4725127999262884400, guid: 3601c275ede40a2409f9c3a1dda00196, type: 3}
       propertyPath: hitPoint
-      value: 6
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4725127999262884400, guid: 3601c275ede40a2409f9c3a1dda00196, type: 3}
       propertyPath: scoreAmount
